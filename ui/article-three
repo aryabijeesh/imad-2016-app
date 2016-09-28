@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Article three |Arya krishna
+        </title>
+    </head>
+    <body>
+        <div>
+            <a href="/">Home</a>
+        </div>
+        <hr/>
+        <h3>
+            Article three
+        </h3>
+        <div>
+            Sep15,2016
+        </div>
+        <div>
+            <p>
+                This is the content for my third article.
+                  
+            </p>
+        </div>
+      </body>
+</html>
